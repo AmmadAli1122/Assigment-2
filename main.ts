@@ -1,0 +1,2 @@
+let personName:string = "Ammad"; //storing person name in a variable be camel case 
+console.log(`Hellow "${personName}",would you like to learn something new today..?`); //print the statement and use template literals
